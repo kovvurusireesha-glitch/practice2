@@ -8,4 +8,5 @@ console.log(isPalindrome("RaceCar"));           // true
 console.log(isPalindrome("A man, a plan, a canal: Panama")); 
 console.log(isPalindrome("world")); 
 console.log("hi");
+console.log("hello");
 // false
